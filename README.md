@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn about desenvolvimento de sistemas
 - 🌱 I’m currently learning sql and python
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: eu tenho um notebook que faz mais barulho que motor v8 mas estou disposta a migrar de carreira pra área de TI na cara e na coragem
 
 <!---
 mikakamis/mikakamis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
