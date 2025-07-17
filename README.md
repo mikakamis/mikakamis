@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @mikakamis
-- 👀 I’m interested in learn about systems and database development
-- 🌱 I’m currently learning sql and python
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: No coffee. Still coding. Still alive. It's a mystery.
+## 👾 Mika Kamis
 
-<!---
-mikakamis/mikakamis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎮 De Jogos Digitais a Análise de Sistemas
+
+🐍 Atualmente focada em Python, aprendendo a domar loops, listas e (eventualmente) SQLs rebeldes.
+
+🚫☕ Fun fact: programo sem café. Sim, isso é possível. Sim, continuo funcional.
+
+💼 Em busca de uma oportunidade como estagiária ou desenvolvedora júnior. Se você precisa de alguém que aprenda rápido, pergunte muito e nunca diga “não sei” sem seguir de “...mas vou descobrir”, me chama!
+
+---
+
+### 💡 Tecnologias que estou estudando
+- Python
+- SQL (banco de dados relacional)
+- Lógica de programação
+- Git e GitHub
+
+---
+
+### 📂 Projetinhos em destaque
+🔧 Em construção… mas você pode ver meu progresso nos repositórios aqui do lado.
+
+---
+
+### 📫 Onde me encontrar:
+- LinkedIn: https://www.linkedin.com/in/camila-sales
